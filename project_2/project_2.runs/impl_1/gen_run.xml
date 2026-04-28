@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1777284190">
+  <File Type="ROUTE-PWR" Name="SW_CT_LED_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="SW_CT_LED.tcl"/>
+  <File Type="BITSTR-MMI" Name="SW_CT_LED.mmi"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="SW_CT_LED_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="SW_CT_LED_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="SW_CT_LED_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="SW_CT_LED_reports.tcl"/>
+  <File Type="OPT-TIMING" Name="SW_CT_LED_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="SW_CT_LED_opt.dcp"/>
+  <File Type="OPT-DRC" Name="SW_CT_LED_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="SW_CT_LED.hwdef"/>
+  <File Type="PWROPT-DCP" Name="SW_CT_LED_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="SW_CT_LED_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="SW_CT_LED_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="SW_CT_LED_placed.dcp"/>
+  <File Type="PLACE-IO" Name="SW_CT_LED_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="SW_CT_LED_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="SW_CT_LED_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="SW_CT_LED_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="SW_CT_LED_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="SW_CT_LED_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="SW_CT_LED_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BIN" Name="SW_CT_LED.bin"/>
+  <File Type="PLACE-TIMING" Name="SW_CT_LED_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="SW_CT_LED_postplace_pwropt.dcp"/>
+  <File Type="BITSTR-MSK" Name="SW_CT_LED.msk"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="SW_CT_LED_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="SW_CT_LED_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="SW_CT_LED_drc_physopted.rpt"/>
+  <File Type="BITSTR-RBT" Name="SW_CT_LED.rbt"/>
+  <File Type="PHYSOPT-TIMING" Name="SW_CT_LED_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="SW_CT_LED_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="SW_CT_LED_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="SW_CT_LED_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="SW_CT_LED_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="SW_CT_LED_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="SW_CT_LED_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="SW_CT_LED_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="SW_CT_LED_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="SW_CT_LED_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="SW_CT_LED_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="SW_CT_LED_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="SW_CT_LED_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="SW_CT_LED_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="SW_CT_LED_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="SW_CT_LED_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="SW_CT_LED_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="SW_CT_LED_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="SW_CT_LED_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="SW_CT_LED_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="SW_CT_LED_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="SW_CT_LED_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="SW_CT_LED_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="SW_CT_LED_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="SW_CT_LED_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="SW_CT_LED_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="SW_CT_LED_bus_skew_postroute_physopted.rpt"/>
+  <File Type="BG-BIT" Name="SW_CT_LED.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="SW_CT_LED_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="SW_CT_LED_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-NKY" Name="SW_CT_LED.nky"/>
+  <File Type="BITSTR-BMM" Name="SW_CT_LED_bd.bmm"/>
+  <File Type="PDI-FILE" Name="SW_CT_LED.pdi"/>
+  <File Type="RCFI_FILE" Name="SW_CT_LED.rcfi"/>
+  <File Type="CFI_FILE" Name="SW_CT_LED.cfi"/>
+  <File Type="RNPI_FILE" Name="SW_CT_LED.rnpi"/>
+  <File Type="NPI_FILE" Name="SW_CT_LED.npi"/>
+  <File Type="RBD_FILE" Name="SW_CT_LED.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="SW_CT_LED.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="SW_CT_LED.sysdef"/>
+  <File Type="BG-BGN" Name="SW_CT_LED.bgn"/>
+  <File Type="BG-DRC" Name="SW_CT_LED.drc"/>
+  <File Type="RDI-RDI" Name="SW_CT_LED.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="ROUTE-RQS" Name="SW_CT_LED_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="SW_CT_LED_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/SW_CT_LED.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="SW_CT_LED"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PPRDIR/../../../digilent-xdc-master/digilent-xdc-master/Arty-A7-100-Master.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2022">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
